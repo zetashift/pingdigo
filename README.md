@@ -1,10 +1,6 @@
-## Scala.js - Vite project template
+# Pongdigo
 
-----------------
-
-## Usage
-
-This is a sbt project configured specifically for Scala.js and Vite.
+It's pong using Indigo!
 
 ### Starting dev server
 
@@ -18,4 +14,10 @@ The next step is to start the server. To do it, run `yarn dev` or if you use npm
 
 To add new dependencies, do it with 
 `npm install ${dependencyName}`
+
+
+## Thank you's
+
+[Indigo](https://indigoengine.io/)
+[Scala.js Vite giter8](https://github.com/scala-js/vite.g8)
 
