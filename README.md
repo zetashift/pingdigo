@@ -10,14 +10,9 @@ To start Scala.js - Vite developement server, you first need to start incrementa
 It is done by running `sbt ~fastLinkJS` directly from shell of just `~fastLinkJS` from SBT shell instance.
 The next step is to start the server. To do it, run `yarn dev` or if you use npm `npm run dev` in your terminal.
 
-### Adding new dependencies
 
-To add new dependencies, do it with 
-`npm install ${dependencyName}`
+## Thank you
 
-
-## Thank you's
-
-[Indigo](https://indigoengine.io/)
-[Scala.js Vite giter8](https://github.com/scala-js/vite.g8)
+- [Indigo](https://indigoengine.io/)
+- [Scala.js Vite giter8](https://github.com/scala-js/vite.g8)
 
