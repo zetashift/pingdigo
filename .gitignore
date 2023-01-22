@@ -1,0 +1,52 @@
+#mill
+out
+
+# sbt
+lib_managed
+project/project
+target
+
+# Eclipse
+.cache*
+.classpath
+.project
+.scala_dependencies
+.settings
+.target
+.worksheet
+
+# IntelliJ
+.idea
+.idea_modules
+*.iml
+
+# Mac
+.DS_Store
+
+# Log files
+*.log
+
+#Floobits
+.floo
+
+# Local Dynamo DB
+dynamodb_lib
+*.db
+
+# Node
+node_modules
+
+.bloop
+.vscode
+.history
+.metals
+project/metals.sbt
+.ammonite
+
+# Version file
+version
+
+# BSP files
+.bsp
+
+.direnv
